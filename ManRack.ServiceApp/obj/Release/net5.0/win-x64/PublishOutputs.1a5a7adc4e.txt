@@ -1,0 +1,7 @@
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.ServiceApp\bin\Release\net5.0\win-x64\publish\appsettings.Development.json
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.ServiceApp\bin\Release\net5.0\win-x64\publish\appsettings.json
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.ServiceApp\bin\Release\net5.0\win-x64\publish\ManRack.ServiceApp.pdb
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.ServiceApp\bin\Release\net5.0\win-x64\publish\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.ServiceApp\bin\Release\net5.0\win-x64\publish\ManRack.Service.pdb
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.ServiceApp\bin\Release\net5.0\win-x64\publish\ManRack.Repository.pdb
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.ServiceApp\bin\Release\net5.0\win-x64\publish\ManRack.ServiceApp.exe

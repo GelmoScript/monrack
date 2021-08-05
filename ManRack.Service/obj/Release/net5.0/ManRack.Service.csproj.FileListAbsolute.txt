@@ -1,0 +1,15 @@
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\obj\Release\net5.0\ManRack.Service.csproj.AssemblyReference.cache
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\obj\Release\net5.0\ManRack.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\obj\Release\net5.0\ManRack.Service.AssemblyInfoInputs.cache
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\obj\Release\net5.0\ManRack.Service.AssemblyInfo.cs
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\obj\Release\net5.0\ManRack.Service.csproj.CoreCompileInputs.cache
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\bin\Release\net5.0\ManRack.Service.deps.json
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\bin\Release\net5.0\ManRack.Service.dll
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\bin\Release\net5.0\ref\ManRack.Service.dll
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\bin\Release\net5.0\ManRack.Service.pdb
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\bin\Release\net5.0\ManRack.Repository.dll
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\bin\Release\net5.0\ManRack.Repository.pdb
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\obj\Release\net5.0\ManRack.Service.csproj.CopyComplete
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\obj\Release\net5.0\ManRack.Service.dll
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\obj\Release\net5.0\ref\ManRack.Service.dll
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Service\obj\Release\net5.0\ManRack.Service.pdb

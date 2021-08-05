@@ -1,0 +1,12 @@
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Repository\bin\Debug\netcoreapp3.1\ManRack.Repository.deps.json
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Repository\bin\Debug\netcoreapp3.1\ManRack.Repository.runtimeconfig.json
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Repository\bin\Debug\netcoreapp3.1\ManRack.Repository.runtimeconfig.dev.json
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Repository\bin\Debug\netcoreapp3.1\ManRack.Repository.dll
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Repository\bin\Debug\netcoreapp3.1\ManRack.Repository.pdb
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Repository\obj\Debug\netcoreapp3.1\ManRack.Repository.csproj.AssemblyReference.cache
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Repository\obj\Debug\netcoreapp3.1\ManRack.Repository.AssemblyInfoInputs.cache
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Repository\obj\Debug\netcoreapp3.1\ManRack.Repository.AssemblyInfo.cs
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Repository\obj\Debug\netcoreapp3.1\ManRack.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Repository\obj\Debug\netcoreapp3.1\ManRack.Repository.dll
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Repository\obj\Debug\netcoreapp3.1\ManRack.Repository.pdb
+C:\Users\Sx-G5-Laptop\Projects\MonRack\ManRack.Repository\obj\Debug\netcoreapp3.1\ManRack.Repository.genruntimeconfig.cache
